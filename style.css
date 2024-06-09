@@ -7,11 +7,11 @@
 }
 html {
   /*   *****   Storing Colors In Variables   *****  */
-  --body-clr: #f6f9fe;
-  --primary-clr: #05555c;
-  --primary-light-clr: #eaf3fa;
-  --links-clr: #186f78;
-  --text-clr: #3f7277;
+  --body-clr: #f33c3cb8;
+  --primary-clr: #1c1a39;
+  --primary-light-clr: #2b3c4a;
+  --links-clr: #141312;
+  --text-clr: #f03333;
   font-family: "montserrat", sans-serif;
   font-size: 10px;
 }
